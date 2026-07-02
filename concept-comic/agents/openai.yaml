@@ -1,0 +1,7 @@
+interface:
+  display_name: "Concept Comic"
+  short_description: "Turn concepts into generated comic images"
+  default_prompt: "Use $concept-comic to turn a complex concept into generated comic explanation images."
+
+policy:
+  allow_implicit_invocation: true
